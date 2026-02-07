@@ -3,8 +3,6 @@ Project index
 
 ## [Rust](https://github.com/shfty-rust)
 
-## [Elysian](https://github.com/shfty-elysian)
-
 ## [C++](https://github.com/shfty-cpp)
 
 ## [C#](https://github.com/shfty-csharp)
