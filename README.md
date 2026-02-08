@@ -19,6 +19,8 @@ Project index
 
 ## [Embedded](https://github.com/Lander-Embedded)
 
+## [Modding](https://github.com/Lander-Modding)
+
 ## [Emulation](https://github.com/Lander-Emulation)
 
 ## [Misc](https://github.com/Lander-Misc)
