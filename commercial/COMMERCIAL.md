@@ -1,9 +1,10 @@
 # Commercial
 
-## [Dark Future: Blood Red States](DARK-FUTURE.md)
+## [Dark Future: Blood Red States](dark-future/DARK-FUTURE.md)
 
 Video game adaptation of the Games Workshop tabletop title.
 
-## [Acopperlypse](ACOPPERLYPSE.md)
+## [Acopperlypse](acopperlypse/ACOPPERLYPSE.md)
 
 VR tower defense game with optional asynchronous multiplayer.
+
