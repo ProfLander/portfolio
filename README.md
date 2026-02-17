@@ -1,5 +1,9 @@
 # Portfolio
 
+## [Commercial](commercial/COMMERCIAL.md)
+
+Work projects whose source cannot be shared.
+
 ## [Rust](https://github.com/Lander-Rust)
 
 Prolific hobby-hacking undertaken on the Rust platform.
